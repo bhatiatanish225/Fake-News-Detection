@@ -46,7 +46,7 @@ The dataset is divided into two parts:
 ### **Software Requirements**
 - **Python (Version 3.x)**
 - **Anaconda (Optional, for Jupyter Notebook support)**
-- **Code Editor (Jupyter Notebook, VS Code, or PyCharm)**
+- **Code Editor (Jupyter Notebook,Google Collab, VS Code, or PyCharm)**
 
 ---
 ## **Dependencies**
@@ -69,7 +69,7 @@ These libraries help in **data processing, visualization, and model training**.
 ### **Step 1: Clone the Repository**
 First, download the project files using Git:
 ```sh
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
+git clone https://github.com/bhatiatanish225/Fake-News-Detection.git
 ```
 
 ### **Step 2: Navigate to the Project Folder**
